@@ -3,3 +3,6 @@ Desenvolvendo um projeto simples para um amigo que esteve com algumas dúvidas r
 
 - Criando as rotas.
 - Adicionando as rotas no modulo.
+- apagando ou comentando todo html do app.component.html
+- colocar a tag <router-outlet></router-outlet> no app.component.html.
+
